@@ -2,4 +2,4 @@
 
 I`m an software developer 
 
-currently learning React Js
+I`m currently learning React Js
